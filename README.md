@@ -1,1 +1,1 @@
-订阅地址： https://github.com/lilydjwg/abp-rules/raw/master/list.txt
+订阅地址： https://github.com/n1test/my-abp-rules/blob/master/mylist.txt
