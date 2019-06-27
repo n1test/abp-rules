@@ -13,7 +13,7 @@
 ! or via e-mail (easylist.china@gmail.com).
 !
 !-----------------------My add General advert blocking filters-----------------------!
-imagev2.xmcdn.com
+||imagev2.xmcdn.com^
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
 -880-80-4.jpg
