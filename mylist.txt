@@ -14,6 +14,7 @@
 !
 !-----------------------My add General advert blocking filters-----------------------!
 ||imagev2.xmcdn.com^
+||image.gentags.com^
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
 -880-80-4.jpg
