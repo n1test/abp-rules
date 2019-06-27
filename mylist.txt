@@ -12,7 +12,7 @@
 ! in the forums (http://abpchina.org/forum/)
 ! or via e-mail (easylist.china@gmail.com).
 !
-!---myadd--!
+!-----------------------My add General advert blocking filters-----------------------!
 imagev2.xmcdn.com
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
