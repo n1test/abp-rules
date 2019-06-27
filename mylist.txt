@@ -15,6 +15,18 @@
 !-----------------------My add General advert blocking filters-----------------------!
 ||imagev2.xmcdn.com^
 ||image.gentags.com^
+||adse.wsa.ximalaya.com^
+||image.gentags.com^
+||imagev2.xmcdn.com^
+||aod.tx.xmcdn.com^
+||alogs.umeng.com^
+||dns.ximalaya.com^
+||xdcs-collector.ximalaya.com^
+||linkeye.ximalaya.com^
+||adbehavior.ximalaya.com^
+||live.ximalaya.com^
+||dns.ximalaya.com^
+||ad.ximalaya.com^
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
 -880-80-4.jpg
