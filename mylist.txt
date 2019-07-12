@@ -13,6 +13,7 @@
 ! or via e-mail (easylist.china@gmail.com).
 !
 !-----------------------My add General advert blocking filters-----------------------!
+||ximalaya.com^
 ||adse.ximalaya.com^
 ||imagev2.xmcdn.com^
 ||image.gentags.com^
